@@ -7,3 +7,5 @@ data/db
 data/.encryption_key
 .last-synced-gitea
 .hermes/
+# collection-worker compilado pelo tool/tasks/dockhand/dev-mac.sh
+/bin/
